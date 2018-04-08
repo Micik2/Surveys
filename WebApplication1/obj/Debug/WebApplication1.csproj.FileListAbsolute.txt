@@ -1,0 +1,179 @@
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\s396380\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\WebApplication1.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\WebGrease.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\EntityFramework.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Data.SQLite.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Data.SQLite.EF6.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Data.SQLite.Linq.dll
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\EntityFramework.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Data.SQLite.xml
+J:\SEMESTR VII\PIS\AKTUALNE\WebApplication1\WebApplication1\bin\System.Data.SQLite.dll.config
